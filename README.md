@@ -1,8 +1,8 @@
-# [Fan Cheng] - Academic Homepage 个人学术主页
-
+# [程凡教授] - Academic Homepage 个人学术主页
+<!-- 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-blue?logo=googlescholar)](your_scholar_link)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your_email)
-
+-->
 ## 👨‍🏫 Profile 教授简介
 
 ### Basic Information 基本信息
