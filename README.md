@@ -17,7 +17,7 @@
 
 [1] **Fan Cheng**, Junjie Cui, Qijun Wang, Lei Zhang, A variable granularity search based multi-objective feature selection algorithm for high-dimensional data classification, IEEE Transactions on Evolutionary, 2023, 27(2): 266-280. SCIE. 基金号第一标注  
 [2] **Fan Cheng**, Feixiang Chu, Yi Xu, Lei Zhang, A steering-matrix-based multio-bjective evolutionary algorithm for high-dimensional feature selection, IEEE Transactions on Cybernetics, 2022, 52(9): 9695-9708. SCIE. 基金号第一标注  
-[3] Mingming Xia, Lei Zhang, KaiXuan Li, **Fan Cheng (通讯作者)**, ODS-EA: An objective to decision space-based evolutionary algorithm for high-dimensional feature selection, Expert Systems with Applications, 2026, 303(3): 130560. SCIE.  
+[3] Mingming Xia, Lei Zhang, KaiXuan Li, **Fan Cheng (通讯作者)**, ODS-EA: An objective to decision space-based evolutionary algorithm for high-dimensional feature selection, Expert Systems with Applications, 2026, 303(3): 130560. SCIE. 基金号第一标注 
 [4] Mingming Xia, KaiXuan Li, Jiacheng Wan, Ziwei Huang, **Fan Cheng (通讯作者)**, An instance selection assisted evolutionary method for high-dimensional feature selection, IEEE Transaction on Evolutionary Computation, 2025, 8. SCIE.  
 [5] Qijun Wang, Zilong Zhu, **Fan Cheng (通讯作者)**, Bo Du, Lixia Yang, EMT-HEE: an evolutionary multi-tasking method for hyperspectral endmember extraction, IEEE Transactions on Emerging Topics in Computational Intelligence, 2025, 10. SCIE.  
 [6] Lei Zhang, Zhanpeng Wang, Haipeng Yang, Xiang Sun, **Fan Cheng (通讯作者)**, Pareto optimization for fair subset selection: a case study on personalized recommendation, IEEE Transaction on Evolutionary Computation, 2025, 29(5): 2198-2212. SCIE.  
