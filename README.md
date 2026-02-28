@@ -5,7 +5,7 @@
 -->
 ## 👨‍🏫 Profile 教授简介
 
-### Basic Information 基本信息
+### 个人基本信息
 - **Name 姓名:** Fan Cheng (程 凡)
 - **Title 职称:** Professor (教 授)
 - **Affiliation 单位:** Anhui University (安徽大学)
