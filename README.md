@@ -3,14 +3,10 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-blue?logo=googlescholar)](your_scholar_link)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your_email)
 -->
-## 个人基本信息
-
-姓名： 程 凡 (Fan Cheng)
-
-职称： 教授 (Professor)
-
-单位： 安徽大学 (Anhui University)
-
+## 个人基本信息:
+姓名： 程 凡 (Fan Cheng)  
+职称： 教授 (Professor)  
+单位： 安徽大学 (Anhui University)  
 邮箱： cfem23@sina.com
 
 **Research Interests/研究方向:**
