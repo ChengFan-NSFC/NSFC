@@ -55,7 +55,6 @@
 [39] Lei Zhang; Yutong Liu; **Fan Cheng (通讯作者)**; Jianfeng Qiu; Xingyi Zhang; A local-global influence indicator based constrained evolutionary algorithm for budgeted influence maximization in social networks, *IEEE Transactions on Network Science and Engineering*, 2021, 8(2): 1557-1569. SCIE. 基金号第四标注
 
 
-
 ### $\color{SteelBlue}{\text{(二) 发明专利 (以下仅列出负责人为第一作者专利)}}$
 
 [1] **程凡**，刘旭东. 基于动态图结构的小鼠模型海马生物标记物的多目标特征选择方法 [P]. 中国专利，ZL202110088875.1. 授权公告日：2022-10-04.  
